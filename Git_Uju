@@ -1,0 +1,4 @@
+echo "i love my husband"
+read n
+echo "$n is a great man"
+echo "takes care of me".
